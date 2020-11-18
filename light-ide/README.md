@@ -1,4 +1,4 @@
-# IDE Light Installation
+# Light IDE Installation
 
 ## Dependencies
 
