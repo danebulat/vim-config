@@ -2,7 +2,7 @@
 
 ## Dependencies
 
-Make sure the [ack](https://github.com/beyondgrep/ack3) and [ctags](https://github.com/universal-ctags/ctags) packages are install on your system. 
+Make sure the [ack](https://github.com/beyondgrep/ack3) and [ctags](https://github.com/universal-ctags/ctags) packages are installed on your system. 
 
 Use your distribution's package manager to download the packages. For example, on Arch Linux: 
 
